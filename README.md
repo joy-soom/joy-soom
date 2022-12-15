@@ -25,7 +25,8 @@
 </div>
     
 <div  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soominpark9&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=soominpark9&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soominpark9&layout=compact"><br><br>
+  
 </div>
 	  
