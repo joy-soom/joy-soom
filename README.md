@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=5e7e9b&height=110&section=header&text=Soom%20Github&stroke=000000&strokeWidth=2&fontSize=60&fontColor=003458" style="width: 100vw;" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=5e7e9b&height=100&section=header&text=Soom%20Github&fontSize=60&fontColor=003458" style="width: 100vw;" />
 
 <div align=center>
 <h3>📚Tech Stack📚</h3>
