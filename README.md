@@ -20,13 +20,15 @@
 	<img src="https://img.shields.io/badge/SCSS-A6568F?style=flat&logo=SCSS&logoColor=white" />
   <br>
   <h3>🛠Tools🛠<h3>
-  <img src="https://img.shields.io/badge/Visual Studio Code-1572B6?style=flat&logo=Visual Studio Code&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=GitHub&logoColor=white" />
+	 <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=GitHub&logoColor=white" />
+         <img src="https://img.shields.io/badge/Visual Studio Code-1572B6?style=flat&logo=Visual Studio Code&logoColor=white" />
+	
 </div>
     
 <div  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soominpark9&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soominpark9&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=soominpark9&show_icons=true">
+  
   
 </div>
 	  
