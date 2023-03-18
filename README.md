@@ -13,7 +13,9 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
   <br>
 	<img src="https://img.shields.io/badge/React-8BC0D2?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/-redux-764ABC?style=flat&logo=React&logoColor=white" />
         <img src="https://img.shields.io/badge/typescript-007396?style=flat&logo=typescript&logoColor=white" />
+	<img alt="SASS" src ="https://img.shields.io/badge/-sass-CC6699?style=flat&logo=sass&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Node.js-3A7E3C?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	
