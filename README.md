@@ -29,5 +29,16 @@
 	 <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=GitHub&logoColor=white" />
          <img src="https://img.shields.io/badge/Visual Studio Code-1572B6?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 </div>
+	
+<div display="flex">
+	
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-soom&layout=compact&theme=tokyonight">
+
+	
+  <img src="https://github-readme-stats.vercel.app/api?username=joy-soom&show_icons=true&theme=tokyonight">
+		 
+</div>
+  
+
    
 	  
