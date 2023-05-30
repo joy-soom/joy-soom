@@ -1,4 +1,4 @@
-<div align=left>
+<div align=center>
 <h3>👋Hi there!</h3>
 <p> 꾸준하게 매일 성장하고 있는 신입 개발자 입니다.🌱 <br>
 올바른 레이아웃과 다양한 css 방식을 활용하여 ui를 개발 하는 것과 좋아 합니다.<br>
@@ -7,7 +7,7 @@
 </div>
 
 
-<div align="left">
+<div align="center">
 <h3>💪Skills<h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -30,7 +30,7 @@
          <img src="https://img.shields.io/badge/Visual Studio Code-1572B6?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 </div>
 	
-<div display="flex">
+<div align="center">
 	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-soom&layout=compact&theme=tokyonight">
 
